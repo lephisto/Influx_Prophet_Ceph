@@ -8,4 +8,6 @@ Reads your historics ceph pool utilisation and generates forecast and writes it 
 2. Adjust variables
 3. Run
 
-![](screenhots/fbprophet_plot.png)
+![](https://github.com/lephisto/Influx_Prophet_Ceph/raw/master/screenshots/fbprophet_plot.png)
+
+![](https://github.com/lephisto/Influx_Prophet_Ceph/raw/master/screenshots/Grafana_Capacity_forecast.png)
